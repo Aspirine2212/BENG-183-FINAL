@@ -40,6 +40,7 @@ These fragments are then sorted by size using gel electrophoresis. This method u
 Analysis then occurs to determine the final sequence. A picture is included below to provide a visual representation of the process of first gen sequencing.
 
 ![Sanger Sequencing Image](Sanger.png)
+
 First Gen Sequencing (picture provided by [Front Line Genomics])
 
 # Illumina 
@@ -50,6 +51,7 @@ The DNA sample is first fragmented into short sequences and are then ligated wit
 A picture is included below, to better visualize the process.
 
 ![Illumina Sequencing Image](Illumina.jpg)
+
 Second Gen Sequencing (picture provided by [ScienceDirect])
 
 
@@ -79,6 +81,7 @@ ONT can also sequence RNA directly! After ligating adapters just like you would 
 ONT also has a small sequencer. There is no need for large equipment so the sequencing could be more accessible. A picture is provided below.
 
 ![ONT image](Nanopore.webp)
+
 Oxford Nanopore Nanopore (picture provided by [Wang et al.])
 
 # Uses of LRS
