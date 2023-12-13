@@ -40,7 +40,8 @@ These fragments are then sorted by size using gel electrophoresis. This method u
 
 Analysis then occurs to determine the final sequence. A picture is included below to provide a visual representation of the process of first gen sequencing.
 
-[Sanger Sequencing Image](Sanger.png)
+![Sanger Sequencing Image](Sanger.png)
+
 First Gen Sequencing (picture provided by [Front Line Genomics])
 
 # Illumina 
