@@ -51,7 +51,7 @@ The DNA sample is first fragmented into short sequences and are then ligated wit
 
 A picture is included below, to better visualize the process.
 
-[Illumina Sequencing Image](Illumina.jpg)
+![Illumina Sequencing Image](Illumina.jpg)
 Second Gen Sequencing (picture provided by ScienceDirect)
 
 
@@ -72,7 +72,7 @@ While there are many advantages, there are also disadvantages that can make it l
 # Pac Bio
 One of the exemplars of LRS technology is [PacBio]’s [HiFi Long Read Sequencing](https://urldefense.com/v3/__https://www.pacb.com/technology/hifi-sequencing/__;!!Mih3wA!BmSe32VXjoKoKauyJRIxJQGzUsRjBzbHkxTq4gPijkAd1LU98dOY9AwKejn7HJYx58X5hYVTWLoOgJnUSfg$ ) . In PacBio’s long-read sequencing technology, the foundational technique employed is Single-Molecule Real-Time (SMRT) sequencing. The initial step involves the preparation of DNA samples into SMRTbell templates[\[7\]]. These templates are positioned onto a PacBio SMRT Cell, which is then integrated into the sequencing instrument. Within this setup, a DNA polymerase enzyme initiates the synthesis of a complementary DNA strand, taking cues from the DNA template as it threads through the DNA polymerase situated in the SMRT Cell [\[7\]]. The SMRTbell templates are bound to DNA polymerase and loaded onto a SMRT chip[\[7\]]. The chip is placed into the PacBio sequencing instrument and the DNA polymerase begins synthesizing a complementary DNA strand using fluorescently labeled nucleotides[\[7\]]. Each time a nucleotide is incorporated, a fluorescent pulse is emitted[\[7\]]. The instrument detects these pulses in real time [\[7\]]. The unique color of the fluorescence identifies which of the four bases (A, T, C, or G) is incorporated [\[7\]]. To ensure the accuracy of the sequence data, the process includes multiple readings of the same DNA template. This iterative approach ensures a high fidelity in the sequencing results obtained from the PacBio system [\[7\]. This technology can also detect modifications such as methylation to the DNA through the patterns in the light [\[7\]]](https://urldefense.com/v3/__https://www.sciencedirect.com/science/article/pii/S1672022915001345?via*3Dihub__;JQ!!Mih3wA!BmSe32VXjoKoKauyJRIxJQGzUsRjBzbHkxTq4gPijkAd1LU98dOY9AwKejn7HJYx58X5hYVTWLoOBB7RF4E$ ). Picture provided below.
 
-[PacBio image](PacBio.webp)
+![PacBio image](PacBio.webp)
 Pac Bio (Picture provided by [BMKGENE])
 
 # Oxford Nanopore Technologies (ONT)
@@ -82,7 +82,7 @@ ONT can also sequence RNA directly! After ligating adapters just like you would 
 
 ONT also has a small sequencer. There is no need for large equipment so the sequencing could be more accessible. A picture is provided below.
 
-[ONT image](Nanopore.webp)
+![ONT image](Nanopore.webp)
 Oxford Nanopore Nanopore (picture provided by [Wang et al.])
 
 # Uses of LRS
